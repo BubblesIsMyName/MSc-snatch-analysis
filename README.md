@@ -3,7 +3,7 @@
 The following repository contains some the key scripts for the pipline of tools and implementaions of models.
 ## Pipeline Diagram
 
-![alt text](https://github.com/BubblesIsMyName/MSc-snatch-analysis.git/blob/main/pipeline.png?raw=true)
+![alt text](https://github.com/BubblesIsMyName/MSc-snatch-analysis/blob/main/pipeline.png?raw=true)
 
 ## Contents of the repository
 ### Scripts
